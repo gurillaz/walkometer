@@ -1,0 +1,7 @@
+{
+  "name": "Walkometer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
