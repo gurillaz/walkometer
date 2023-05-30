@@ -1,29 +1,50 @@
 <template>
   <ion-page>
-    <ion-header>
-      <ion-toolbar>
-        <ion-title>Tab 3</ion-title>
-      </ion-toolbar>
-    </ion-header>
+
     <ion-content :fullscreen="true">
-      <ion-header collapse="condense">
-        <ion-toolbar>
-          <ion-title size="large">Tab 3</ion-title>
-        </ion-toolbar>
-      </ion-header>
-      
-      <ExploreContainer name="Tab 3 page" />
+      <ion-grid>
+        <ion-row style="min-height: calc(100vh - 70px)">
+          <ion-col size="12">
+            <h2 style="font-weight: bolder">ABOUT</h2>
+          </ion-col>
+          <ion-col size="12" class="ion-text-center ion-aling-slef-center">
+            <p>Developed by: Klevis Sahitaj 05-2022</p>
+
+          </ion-col>
+
+        </ion-row>
+      </ion-grid>
+
+
     </ion-content>
   </ion-page>
 </template>
 
-<script lang="ts">
+<script >
 import { defineComponent } from 'vue';
-import { IonPage, IonHeader, IonToolbar, IonTitle, IonContent } from '@ionic/vue';
-import ExploreContainer from '@/components/ExploreContainer.vue';
+import {
+  IonPage,
+  IonContent,
+  IonGrid,
+  IonRow,
+  IonCol,
+  // IonButton,
+  // IonIcon,
+} from "@ionic/vue";
+
+
 
 export default defineComponent({
-  name: 'Tab3Page',
-  components: { ExploreContainer, IonHeader, IonToolbar, IonTitle, IonContent, IonPage }
+  name: "Tab3Page",
+  components: {
+    IonContent,
+    IonPage,
+    IonGrid,
+    IonRow,
+    IonCol,
+    // IonButton,
+    // IonIcon,
+
+  },
 });
 </script>

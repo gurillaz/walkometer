@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Walkometer",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
