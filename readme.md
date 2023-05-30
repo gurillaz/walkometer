@@ -16,10 +16,6 @@ VueJS, Ionic Framework
 </p>
 
 
-re
-
-
-
 ## Install&Run
 
 Clone the repository and install all dependencies 
