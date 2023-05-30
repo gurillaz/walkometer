@@ -9,14 +9,14 @@ VueJS, Ionic Framework
 
 ## Screenshots
 <p>
-<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_1.png" width="48%" height="48%" hspace="10"/>
-<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_2.png" width="48%" height="48%" hspace="10"/>
-<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_3.png" width="48%" height="48%" hspace="10"/>
-<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_4.png" width="48%" height="48%" hspace="10"/>
+<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_1.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_2.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_3.png" width="48%" height="48%"/>
+<img src="https://raw.githubusercontent.com/gurillaz/walkometer/main/screenshots/scr_4.png" width="48%" height="48%"/>
 </p>
 
 
-
+re
 
 
 
